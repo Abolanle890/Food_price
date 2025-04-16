@@ -4,6 +4,13 @@
 -----
 This project analyzes food prices across various Nigerian regions and markets using Excel, MySQL and Power BI. The goal is to identify price trends, regional disparities, and data quality issues in food commodities.
 
+
+![image alt](https://github.com/Abolanle890/Food_price/blob/a7493d8ebd6a2a6d2715a78332b51e8ce9c70424/Bar%20Chat.png)
+### Commodity Price Analysis
+The bar chart above visualizes the total price distribution across different food commodities. It highlights the top five commodities by total price recorded: Groundnuts (shelled) and Local Rice are the most expensive overall, each surpassing ₦25 million.Cowpeas (white) and Cowpeas (brown) follow closely behind.Yam rounds out the top five.This visualization helps identify which food items contribute most significantly to total food expenditure over the period analyzed.
+
+
+
 ##  Dataset Information
 The dataset used in this project was sourced from the Humanitarian Data Exchange (HDX), provided by the World Food Programme (WFP).
 Dataset Title: WFP Food Prices for Nigeria
@@ -38,6 +45,29 @@ Price type and price flag
 - Top 5 most expensive commodities
 - Regions with highest food prices
 - Suspicious/flagged price entries
+
+## 🔍 Expository Data Analysis
+After cleaning and analyzing the WFP food price dataset for Nigeria, several key patterns and insights emerged:
+1) Price Trends Over Time
+- Most staple food commodities (e.g., Yam, rice, beans) showed a steady increase in USD prices
+- The rise corresponds with inflation and currency devaluation in Nigeria, highlighting external economic pressures.
+2) Regional Price Disparities
+- Northern states like Borno and Yobe often had lower prices, especially for grains.
+- Southern urban centers (e.g., Lagos, Port Harcourt) recorded consistently higher prices, likely due to increased demand and supply chain costs.
+3)  Market-Level Insights
+- Some markets consistently reported higher or lower prices for the same commodities, suggesting local supply dynamics or possible data anomalies.
+- Flagged prices or zero USD prices appeared in multiple records, highlighting the need for careful data validation.
+4)  Commodity Focus
+- Rice and Yam were the most frequently tracked commodities.
+
+## Recommendations
+Based on the analysis, here are some actionable insights:
+- Support Targeted Subsidies
+- Government and NGOs can use price trend data to target interventions in regions with consistently high food prices.
+- Monitor Supply Chain Inefficiencies
+- Markets with unusual price spikes could indicate logistical or supply bottlenecks that require deeper investigation.
+- Standardize Data Collection
+- Track Inflation Adjusted Trends
 
 ## 📊 Tools Used
 - MySQL
