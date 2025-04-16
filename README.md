@@ -17,6 +17,11 @@ This bar chart summarizes total price values at the state level (admin_1). Borno
 ### Sum of Price by admin_2 (Local Government Areas)
 This horizontal bar chart breaks down the total price values by local government areas (admin_2). Maiduguri stands out as the highest contributor, followed by Gwandu and Ibadan North, indicating regional concentration of price activity at the LGA level.
 
+![image alt](https://github.com/Abolanle890/Food_price/blob/c9772f03818b661f0d5845ea3cb5e5aba5c85dd8/Line%20chart.png)
+### Sum of Price by Year
+This area chart shows how the total price value has changed over time. There is no activity before 2010, followed by noticeable spikes in 2015 (27M), 2018 (17M), and a peak in 2021 (52M) before dropping to 7M. This trend helps track historical activity and highlight key years of interest.
+
+
 
 ##  Dataset Information
 The dataset used in this project was sourced from the Humanitarian Data Exchange (HDX), provided by the World Food Programme (WFP).
