@@ -9,6 +9,11 @@ This project analyzes food prices across various Nigerian regions and markets us
 ### Commodity Price Analysis
 The bar chart above visualizes the total price distribution across different food commodities. It highlights the top five commodities by total price recorded: Groundnuts (shelled) and Local Rice are the most expensive overall, each surpassing ₦25 million.Cowpeas (white) and Cowpeas (brown) follow closely behind.Yam rounds out the top five.This visualization helps identify which food items contribute most significantly to total food expenditure over the period analyzed.
 
+![image alt](https://github.com/Abolanle890/Food_price/blob/1ee30344881a622aba9df798e49b01264e68b31d/Horizontal%20Bar%20Chat%20(2).png)
+### Sum of Price Admin_1
+This bar chart summarizes total price values at the state level (admin_1). Borno records the highest price sum, with Yobe and Kaduna following. This visualization gives a macro-level overview of which states drive the most value in the dataset.
+
+
 
 
 ##  Dataset Information
