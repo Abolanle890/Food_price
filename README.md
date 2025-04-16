@@ -1,6 +1,15 @@
 # Food price Analysis in Nigeria
 
-## 📌 Project Overview
+## Table of Content
+- [project overview](#project-overview)
+- [Dataset Information](#dataset-information)
+- [Datasets Fields](dataset-fields)
+- [Key Insights](key-insights)
+- [Expository Data Analysis](expository-data-analysis)
+- [Recommendations](recommendation)
+- [Tools Used](#tools-used)
+
+## Project Overview
 -----
 This project analyzes food prices across various Nigerian regions and markets using Excel, MySQL and Power BI. The goal is to identify price trends, regional disparities, and data quality issues in food commodities.
 
@@ -34,7 +43,7 @@ Unit of measurement
 Local price, currency, and USD price
 Price type and price flag
 
-## 📁 Dataset Fields
+## Dataset Fields
 - Date
 - Admin_1 (State)
 - Admin_2 (Local Government Area)
@@ -49,13 +58,13 @@ Price type and price flag
 - Price
 - USD_Price
 
-## 🧠 Key Insights
+## Key Insights
 - Monthly price trend of key commodities
 - Top 5 most expensive commodities
 - Regions with highest food prices
 - Suspicious/flagged price entries
 
-## 🔍 Expository Data Analysis
+## Expository Data Analysis
 After cleaning and analyzing the WFP food price dataset for Nigeria, several key patterns and insights emerged:
 1) Price Trends Over Time
 - Most staple food commodities (e.g., Yam, rice, beans) showed a steady increase in USD prices
@@ -78,7 +87,7 @@ Based on the analysis, here are some actionable insights:
 - Standardize Data Collection
 - Track Inflation Adjusted Trends
 
-## 📊 Tools Used
+## Tools Used
 - MySQL
 - Power BI
 - Excel
