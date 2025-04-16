@@ -1,8 +1,7 @@
 # Food price Analysis in Nigeria
 
-# 🥦 Food Price Analysis in Nigeria
-
 ## 📌 Project Overview
+-----
 This project analyzes food prices across various Nigerian regions and markets using Excel, MySQL and Power BI. The goal is to identify price trends, regional disparities, and data quality issues in food commodities.
 
 ##  Dataset Information
