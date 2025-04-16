@@ -4,7 +4,6 @@
 -----
 This project analyzes food prices across various Nigerian regions and markets using Excel, MySQL and Power BI. The goal is to identify price trends, regional disparities, and data quality issues in food commodities.
 
-
 ![image alt](https://github.com/Abolanle890/Food_price/blob/a7493d8ebd6a2a6d2715a78332b51e8ce9c70424/Bar%20Chat.png)
 ### Commodity Price Analysis
 The bar chart above visualizes the total price distribution across different food commodities. It highlights the top five commodities by total price recorded: Groundnuts (shelled) and Local Rice are the most expensive overall, each surpassing ₦25 million.Cowpeas (white) and Cowpeas (brown) follow closely behind.Yam rounds out the top five.This visualization helps identify which food items contribute most significantly to total food expenditure over the period analyzed.
@@ -17,11 +16,9 @@ This bar chart summarizes total price values at the state level (admin_1). Borno
 ### Sum of Price by admin_2 (Local Government Areas)
 This horizontal bar chart breaks down the total price values by local government areas (admin_2). Maiduguri stands out as the highest contributor, followed by Gwandu and Ibadan North, indicating regional concentration of price activity at the LGA level.
 
-![image alt](https://github.com/Abolanle890/Food_price/blob/c9772f03818b661f0d5845ea3cb5e5aba5c85dd8/Line%20chart.png)
+![image alt](https://github.com/Abolanle890/Food_price/blob/c892e280750a4a933bc498113b2e7f5fd899490a/Area%20chart.png)
 ### Sum of Price by Year
 This area chart shows how the total price value has changed over time. There is no activity before 2010, followed by noticeable spikes in 2015 (27M), 2018 (17M), and a peak in 2021 (52M) before dropping to 7M. This trend helps track historical activity and highlight key years of interest.
-
-
 
 ##  Dataset Information
 The dataset used in this project was sourced from the Humanitarian Data Exchange (HDX), provided by the World Food Programme (WFP).
@@ -85,8 +82,5 @@ Based on the analysis, here are some actionable insights:
 - MySQL
 - Power BI
 - Excel
-
-## 📈 Dashboard
-[Link to your dashboard]
 
 
