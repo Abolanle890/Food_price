@@ -88,8 +88,16 @@ Based on the analysis, here are some actionable insights:
 - Track Inflation Adjusted Trends
 
 ## Tools Used
-- MySQL
-- Power BI
-- Excel
+- MySQL ( For Futher Analysis)
+- (SELECT
+    DATE_FORMAT(date, '%Y-%m-01') AS month,
+    commodity,
+    ROUND(AVG(usd_price), 2) AS avg_usd_price
+FROM food_price_cvs
+GROUP BY month, commodity
+ORDER BY month, commodity;)
+
+- Power BI (Visualization/Creating a Report)
+- Excel 
 
 
