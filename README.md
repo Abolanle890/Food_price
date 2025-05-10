@@ -1,6 +1,6 @@
-# Food price Analysis in Nigeria
+# Food Price Analysis in Nigeria
 
-## Table of Content
+## Table of Contents
 - [project overview](#project-overview)
 - [Dataset Information](#dataset-information)
 - [Datasets Fields](dataset-fields)
@@ -11,11 +11,11 @@
 
 ## Project Overview
 -----
-This project analyzes food prices across various Nigerian regions and markets using Excel, MySQL and Power BI. The goal is to identify price trends, regional disparities, and data quality issues in food commodities.
+This project analyzes food prices across various Nigerian regions and markets using Excel, MySQL, and Power BI. The goal is to identify price trends, regional disparities, and data quality issues in food commodities.
 
 ![image alt](https://github.com/Abolanle890/Food_price/blob/a7493d8ebd6a2a6d2715a78332b51e8ce9c70424/Bar%20Chat.png)
 ### Commodity Price Analysis
-The bar chart above visualizes the total price distribution across different food commodities. It highlights the top five commodities by total price recorded: Groundnuts (shelled) and Local Rice are the most expensive overall, each surpassing ₦25 million.Cowpeas (white) and Cowpeas (brown) follow closely behind.Yam rounds out the top five.This visualization helps identify which food items contribute most significantly to total food expenditure over the period analyzed.
+The bar chart above visualizes the total price distribution across different food commodities. It highlights the top five commodities by total price recorded: Groundnuts (shelled) and Local Rice are the most expensive overall, each surpassing ₦25 million. Cowpeas (white) and Cowpeas (brown) follow closely behind. Yam rounds out the top five. This visualization helps identify which food items contribute most significantly to total food expenditure over the period analyzed.
 
 ![image alt](https://github.com/Abolanle890/Food_price/blob/1ee30344881a622aba9df798e49b01264e68b31d/Horizontal%20Bar%20Chat%20(2).png)
 ### Sum of Price Admin_1 (State)
@@ -61,7 +61,7 @@ Price type and price flag
 ## Key Insights
 - Monthly price trend of key commodities
 - Top 5 most expensive commodities
-- Regions with highest food prices
+- Regions with the highest food prices
 - Suspicious/flagged price entries
 
 ## Expository Data Analysis
@@ -76,7 +76,7 @@ After cleaning and analyzing the WFP food price dataset for Nigeria, several key
 - Some markets consistently reported higher or lower prices for the same commodities, suggesting local supply dynamics or possible data anomalies.
 - Flagged prices or zero USD prices appeared in multiple records, highlighting the need for careful data validation.
 4)  Commodity Focus
-- Rice and Yam were the most frequently tracked commodities.
+- Rice and yams were the most frequently tracked commodities.
 
 ## Recommendations
 Based on the analysis, here are some actionable insights:
@@ -85,10 +85,10 @@ Based on the analysis, here are some actionable insights:
 - Monitor Supply Chain Inefficiencies
 - Markets with unusual price spikes could indicate logistical or supply bottlenecks that require deeper investigation.
 - Standardize Data Collection
-- Track Inflation Adjusted Trends
+- Track Inflation-Adjusted Trends
 
 ## Tools Used
-- MySQL ( For Futher Analysis)
+- MySQL ( For Further Analysis)
 - (SELECT
     DATE_FORMAT(date, '%Y-%m-01') AS month,
     commodity,
