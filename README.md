@@ -6,7 +6,7 @@
 - [Datasets Fields](dataset-fields)
 - [Key Insights](key-insights)
 - [Expository Data Analysis](expository-data-analysis)
-- [Recommendations](recommendation)
+- [Recommendations](recommendations)
 - [Tools Used](#tools-used)
 
 ## Project Overview
